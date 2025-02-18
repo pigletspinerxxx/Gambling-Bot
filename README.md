@@ -32,6 +32,12 @@ To run the bot in development mode, use the following command:
 npm run dev
 ```
 
+### Rebuild the bot
+To rebuild the bot after making changes, use the following command:
+```
+npm run build
+```
+
 ### View your profile
 ```
 /profile
