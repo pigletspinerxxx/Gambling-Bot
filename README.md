@@ -25,6 +25,13 @@ Every command in the bot has a help page. Call /help <name of command> (e.g. /he
 Note: the help is currently tailored for the @Rocket Gambling Bot ping variation as opposed to slash commands but there's no difference between either option so choose which you prefer. If you see any mentions of $someCommand just calling @Rocket Gambling Bot someCommand instead will work (e.g. @Rocket Gambling Bot replaced the old prefix of $ which is no longer supported).
 
 ## Getting Started
+
+### Running the bot in development mode
+To run the bot in development mode, use the following command:
+```
+npm run dev
+```
+
 ### View your profile
 ```
 /profile
